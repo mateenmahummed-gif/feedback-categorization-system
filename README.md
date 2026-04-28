@@ -2,8 +2,8 @@ Feedback Categorisation Using Machine Learning
 Student Details
 Name: Mohammed Mateen
 Roll No: 25WU0202058
-Project Type: Capstone Project
-Project Name: Feedback Categorisation Using Machine Learning
+**Project Type: Capstone Project
+**Project Name: Feedback Categorisation Using Machine Learning
 What This Project Does
 This project takes customer feedback and predicts what type of feedback it is.
 
